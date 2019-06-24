@@ -1,0 +1,16 @@
+.wrapper {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+.wrapper_paragraph {
+    font-size: 3em;
+}
+.wrapper_link {
+    padding: 10px;
+    font-size: 2em;
+    text-decoration: none;
+}
+.wrapper_link:hover {
+    color: green;
+    border: 1px solid green;
+}
