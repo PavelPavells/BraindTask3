@@ -6,6 +6,8 @@
     font-size: 3em;
 }
 .wrapper_link {
+    display: inline-block;
+    width: 20%;
     padding: 10px;
     font-size: 2em;
     text-decoration: none;
@@ -13,4 +15,8 @@
 .wrapper_link:hover {
     color: green;
     border: 1px solid green;
+    border-radius: 5px;
+    -webkit-transform: scale(0.9);
+    -ms-transform: scale(0.9); 
+    transform: scale(0.9);
 }
